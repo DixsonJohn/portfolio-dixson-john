@@ -3,7 +3,7 @@
     
     width: 100%;
     height: 620px;
-    background-image:linear-gradient(rgba(34, 163, 159, 0.9),rgba(34, 163, 159, 0.7)) ,url(../images/hulk.jpg);
+    background-image:linear-gradient(rgba(34, 163, 159, 0.9),rgba(34, 163, 159, 0.7)) ,url(./hulk.jpg);
     
     background-repeat: no-repeat;
     background-size: 100%;
